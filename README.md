@@ -140,6 +140,8 @@ curl -X POST http://localhost:5000/set_webhook \
 User Input → Telegram → Webhook → AI Processing → Google Sheets → Response
 ```
 
+![Finance Bot Flow](fin_bot.jpg)
+
 ### Expense Categories
 
 1. 🍔 **Food** - Restaurants, groceries, dining
